@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/snackorder-web-platform-130076-130085/snack_ordering_frontend"
+}
